@@ -122,12 +122,6 @@ button {
     grid-column: 1/2;
     grid-row: 8/9;
   }
-  .alumni,
-  .school,
-  .student,
-  .time {
-    background-size: contain;
-  }
 }
 /* Resto del CSS */
 
